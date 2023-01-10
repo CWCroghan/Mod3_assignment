@@ -19,9 +19,9 @@ The analysis of the election data shows:
  
 Of the 369,711 votes cast, the analysis of the election data concerning voter turnout show:
 
- -Jefferson county represents 10.5%  of the votes with 38,855 number of votes
- -Denver county represents 82.8%  of the votes with 306,055 number of votes
- -Arapahoe county represents  6.7% of the votes with 24,801 number of votes
+ - Jefferson county represents 10.5%  of the votes with 38,855 number of votes
+ - Denver county represents 82.8%  of the votes with 306,055 number of votes
+ - Arapahoe county represents  6.7% of the votes with 24,801 number of votes
 
 Denver county had the largest turnout.
 
