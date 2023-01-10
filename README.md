@@ -7,9 +7,9 @@ A Colorado Election Board employee has requested an audit of recent local electi
 The analysis of the election data shows:
 - There were 369,711 votes cast
 - The candidates were:
-    -- Charles Casper Stockham
-    -- Diana DeGette
-    -- Raymon Anthony Doane
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
 - The candidates results were
     -- Charles Casper Stockham received 23.0% of votes with 85,213 number of votes
     -- Diana DeGette received 73.8% of votes with 272,892 number of votes
