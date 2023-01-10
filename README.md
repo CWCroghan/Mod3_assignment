@@ -29,12 +29,12 @@ Denver county had the largest turnout.
  The code was mostly data driven.  The names of counties and candidates were read from the data and were not hardcoded.  The processing was efficiently performed by with a single pass through the data.
 
  There were two elements of hardcoding:
- ---
+ ```
 # Add a variable to load a file from a path.
 file_to_load = os.path.join("Resources", "election_results.csv")
 # Add a variable to save the file to a path.
 file_to_save = os.path.join("analysis", "election_analysis.txt")
----
+```
 
 If these two lines were replaced by a query to the user, the programs could be run on other election results data.
 
