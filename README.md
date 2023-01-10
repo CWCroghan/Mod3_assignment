@@ -39,5 +39,5 @@ file_to_save = os.path.join("analysis", "election_analysis.txt")
 If these two lines were replaced by a query to the user, the programs could be run on other election results data.
 
  ### Resources used in this project
--Data source: election_results.csv
--Software Python 3.7.6, Visual Studio Code version 1.74.2
+- Data source: election_results.csv
+- Software Python 3.7.6, Visual Studio Code version 1.74.2
